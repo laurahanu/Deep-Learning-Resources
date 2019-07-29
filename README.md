@@ -321,9 +321,9 @@ This section includes some cool models, tricks and miscellaneous DL Github repos
 
 This section includes some newsletters and personal blogs I have found interesting and worth reading.
 
-* **Nathan.ai By Nathan Benaich** <http://newsletter.airstreet.com/>
+* **Nathan.ai** <http://newsletter.airstreet.com/>
 
-* **Exponential view by Azeem Azhar** <https://www.exponentialview.co/>
+* **Exponential View** <https://www.exponentialview.co/>
 
 * **Andrej Karpathy** <http://karpathy.github.io/>
 
