@@ -14,7 +14,7 @@ Deep Learning Resources
 The aim of this project is to provide a curated list of high-quality Deep Learning Resources that I have found valuable and insightful. These are organised into separate sections that can be seen in the Table of Contents below.
 
 ##### Table of Contents  
-1. [General Theory](#1)  
+1. [Deep Learning Theory](#1)  
     * [Quick Intro](#s11)
     * [Beginner](#s12)
     * [Intermediate to Advanced](#s13)
@@ -24,9 +24,9 @@ The aim of this project is to provide a curated list of high-quality Deep Learni
     * [Segmentation](#s23)
 3. [Unsupervised learning](#3)
 4. [Data Augmentation](#4)  
-5. [Top Conference Lectures & Tutorials](#5)  
-6. [Explainable AI & interpretable](#6)  
-7. [Python & ML Cheatsheets](#7)  
+5. [Lectures & Tutorials](#5)  
+6. [Explainable AI](#6)  
+7. [Python & DL Cheatsheets](#7)  
 8. [Cool DL examples & repos](#8)  
 9. [AI newsletters & blogs](#9)
 
@@ -39,7 +39,7 @@ The aim of this project is to provide a curated list of high-quality Deep Learni
 
 <a name="1"/>
 
-# 1.  General Theory
+# 1.  Deep Learning Theory
 
 <p align="left">
   <img src="loss.gif" alt="Loss gif" width="50%">
@@ -205,7 +205,7 @@ This section consists in a list of data augmentation packages that can be used f
 
 <a name="5"/>
 
-# 5. Conference lectures or tutorials
+# 5. Lectures or tutorials
 
 This section includes livestreams of TOP AI conferences or DL tutorials.
 
@@ -234,7 +234,7 @@ This section includes livestreams of TOP AI conferences or DL tutorials.
 
 <a name="6"/>
 
-# 6. Explainable & interpretable AI
+# 6. Explainable AI
 
 This section has a selection of python packages that try to make DL model outcomes more explainable.
 
